@@ -1,1 +1,7 @@
 this is the second file i am creating 
+
+
+now the second developer had already code he wanted updated code 
+so he first pulled the code from repo
+then done some changes to it and will push this code to 
+the new branch will name it branch1
