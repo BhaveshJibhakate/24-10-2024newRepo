@@ -1,1 +1,5 @@
 This is the first text file i created 
+
+step1 first developer has cloned the repo 
+and done some changes to this file and 
+now he is pushing to the main branch
